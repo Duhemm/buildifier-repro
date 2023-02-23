@@ -1,0 +1,7 @@
+{
+  "StripLabelLeadingSlashes": true,
+  "ShortenAbsoluteLabelsToRelative": true,
+  "IsLabelArg": {
+    "actual": true
+  }
+}
